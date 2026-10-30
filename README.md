@@ -41,7 +41,9 @@ Proyek ini bertujuan mempelajari penerapan visi komputer, pengolahan citra, dete
 
 ## Pengembang
 Dara Ramadhani (2408107010028)
+
 Dedek Saleha (2408107010023)
+
 Illiza Khairamisa (2408107010017)
 
 Proyek ini dibuat sebagai bagian dari pembelajaran mata kuliah **Praktikum Visi Komputer**.
